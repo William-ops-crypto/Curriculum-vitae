@@ -1,2 +1,2 @@
-# Curriculum-vitae
+# Curriculum-vitae (React Native)
 React Native JS
